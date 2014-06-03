@@ -1,2 +1,2 @@
-HTML5-Tech-Challenge
+HTML5 Tech Challenge
 ====================
